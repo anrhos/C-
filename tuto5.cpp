@@ -14,7 +14,7 @@ int main(){
     a = 45;
     cout<<"The value of a is: "<<a;
     
-   // Manipulators in C)++
+   // Manipulators in C++
     int a = 3, b = 78, c = 1233;
     cout<<"The value of  a  without setw is:  "<<a<<endl;
     cout<<"The value of  b  without setw is:  "<<b<<endl;
